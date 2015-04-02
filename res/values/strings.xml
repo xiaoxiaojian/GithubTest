@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MY_NFCActivity!</string>
+    <string name="app_name">MY_NFC</string>
+
+</resources>
